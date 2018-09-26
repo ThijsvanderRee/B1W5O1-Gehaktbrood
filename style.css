@@ -1,0 +1,45 @@
+	p#header {
+		font-size: 20px;
+	}
+
+	h1 {
+		font-size: 36px;
+	}
+	ul > li {
+		margin: 10px 0;
+		font-size: 20px;
+		line-height: 26px;
+	}
+
+	ol > li {
+		margin: 10px 0;
+		font-size: 20px;
+		line-height: 26px;
+	}
+
+	h1 {
+	    font-family: "Roboto", sans-serif;
+	}
+
+	h2 {
+	    font-family: "Roboto", sans-serif;
+	}
+
+	#footer {
+		background-color: #def6ed;
+		padding: 25px;
+		font-size: 20px;
+		margin-left: 270px;
+		margin-right: 270px;
+	}
+
+	img {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	#all {
+		width: 640px;
+		margin: 0 auto;
+	}
