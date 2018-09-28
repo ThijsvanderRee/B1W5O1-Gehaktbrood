@@ -48,7 +48,6 @@ img {
 
 #navbar {
     list-style-type: none;
-    margin: 0;
     padding: 15px;
     overflow: hidden;
     background-color: #ADADAD;
@@ -57,6 +56,7 @@ img {
 a {
     display: inline;
     color: #ffffff;
+    margin-left: 260px;
     padding: 20px;
     text-decoration: none;
 }
